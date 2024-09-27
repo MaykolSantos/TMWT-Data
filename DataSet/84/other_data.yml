@@ -1,0 +1,21 @@
+gender: Female
+age: 81
+weight: 68
+height: 161
+physicalExercise: "Every day"
+amountOfTime: "Between 1 and 2 hours"
+exerciseType: Walk
+diet: false
+dietType: 
+portionsOfFruitsOrVegetables: "1 or 2"
+amountOfWaterPerDay: "more than 2L"
+healthPathology: true
+pathologyType:
+  - Motor
+  - Vestibular
+smoker: false
+hoursOfSleep: 4
+currentPhysicalState: "With a lot of energy"
+interestInParticipation: 5
+walkingAid: false
+walkingAidName: 

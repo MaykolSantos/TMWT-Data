@@ -1,0 +1,21 @@
+gender: Male
+age: 65
+weight: 73
+height: 168
+physicalExercise: falsene
+amountOfTime:
+exerciseType:
+diet: false
+dietType: 
+portionsOfFruitsOrVegetables: "1 or 2"
+amountOfWaterPerDay: Até 0.33L
+healthPathology: true
+pathologyType:
+  - Metabolic
+  - Neurologic
+smoker: false
+hoursOfSleep: 7
+currentPhysicalState: "With energy"
+interestInParticipation: 5
+walkingAid: false
+walkingAidName:

@@ -1,0 +1,20 @@
+gender: Female
+age: 78
+weight: 80
+height: 155
+physicalExercise: Rarely
+amountOfTime: "30 minutes or less"
+exerciseType: Walk
+diet: false
+dietType: 
+portionsOfFruitsOrVegetables: "1 or 2"
+amountOfWaterPerDay: "Between 0.33L and 0.5L"
+healthPathology: true
+pathologyType:
+  - Vestibular
+smoker: false
+hoursOfSleep: 11
+currentPhysicalState: Tired
+interestInParticipation: 5
+walkingAid: true
+walkingAidName: Walker

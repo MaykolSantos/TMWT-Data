@@ -1,0 +1,21 @@
+gender: Female
+age: 84
+weight: 75
+height: 155
+physicalExercise: "Every day"
+amountOfTime: "Between 30 minutes and 1 hour"
+exerciseType: Walk
+diet: false
+dietType: 
+portionsOfFruitsOrVegetables: "1 or 2"
+amountOfWaterPerDay: Between 1L and 2L"
+healthPathology: true
+pathologyType:
+  - Motor
+  - Neurologic
+smoker: false
+hoursOfSleep: 6
+currentPhysicalState: Tired
+interestInParticipation: 4
+walkingAid: false
+walkingAidName: 

@@ -1,0 +1,20 @@
+gender: Female
+age: 77
+weight: 57
+height: 160
+physicalExercise: "Every day"
+amountOfTime: "Between 1 and 2 hours"
+exerciseType: Walk
+diet: false
+dietType: 
+portionsOfFruitsOrVegetables: "Between 3 and 5"
+amountOfWaterPerDay: Between 1L and 2L"
+healthPathology: true
+pathologyType:
+  - Motor
+smoker: false
+hoursOfSleep: 7
+currentPhysicalState: "With energy"
+interestInParticipation: 5
+walkingAid: false
+walkingAidName: 

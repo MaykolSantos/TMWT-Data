@@ -1,0 +1,20 @@
+gender: Male
+age: 78
+weight: 70
+height: 162
+physicalExercise: "2 or 3 times per week"
+amountOfTime: "Between 1 and 2 hours"
+exerciseType: "Individual Sports"
+diet: false
+dietType: 
+portionsOfFruitsOrVegetables: "1 or 2"
+amountOfWaterPerDay: Between 1L and 2L"
+healthPathology: true
+pathologyType:
+  - Vestibular
+smoker: false
+hoursOfSleep: 8
+currentPhysicalState: "With energy"
+interestInParticipation: 5
+walkingAid: false
+walkingAidName:

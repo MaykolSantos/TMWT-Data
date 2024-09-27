@@ -1,0 +1,20 @@
+gender: Female
+age: 74
+weight: 80
+height: 150
+physicalExercise: "2 or 3 times per week"
+amountOfTime: "30 minutes or less"
+exerciseType: Walk
+diet: false
+dietType: 
+portionsOfFruitsOrVegetables: "1 or 2"
+amountOfWaterPerDay: 0.5 a 1L
+healthPathology: true
+pathologyType:
+  - Neurologic
+smoker: false
+hoursOfSleep: 8
+currentPhysicalState: "With energy"
+interestInParticipation: 5
+walkingAid: true
+walkingAidName: "Walking stick"

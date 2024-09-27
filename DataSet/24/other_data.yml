@@ -1,0 +1,19 @@
+gender: Male
+age: 77
+weight: 65
+height: 151
+physicalExercise: Rarely
+amountOfTime: "30 minutes or less"
+exerciseType: "Individual Sports"
+diet: false
+dietType: 
+portionsOfFruitsOrVegetables: "1 or 2"
+amountOfWaterPerDay: Até 0.33L
+healthPathology: false
+pathologyType:
+smoker: true
+hoursOfSleep: 6
+currentPhysicalState: "With energy"
+interestInParticipation: 4
+walkingAid: false
+walkingAidName:
