@@ -1,0 +1,20 @@
+gender: Female
+age: 72
+weight: 73
+height: 157
+physicalExercise: falsene
+amountOfTime:
+exerciseType:
+diet: false
+dietType: 
+portionsOfFruitsOrVegetables: "1 or 2"
+amountOfWaterPerDay: Between 1L and 2L"
+healthPathology: true
+pathologyType:
+  - Neurologic
+smoker: false
+hoursOfSleep: 9
+currentPhysicalState: Normal
+interestInParticipation: 4
+walkingAid: false
+walkingAidName:

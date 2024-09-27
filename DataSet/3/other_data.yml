@@ -1,0 +1,20 @@
+gender: Male
+age: 83
+weight: 52
+height: 160
+physicalExercise: "Every day"
+amountOfTime: "Between 1 and 2 hours"
+exerciseType: Walk
+diet: false
+dietType: 
+portionsOfFruitsOrVegetables: "Between 3 and 5"
+amountOfWaterPerDay: "Between 0.33L and 0.5L"
+healthPathology: true
+pathologyType:
+  - Neurologic
+smoker: false
+hoursOfSleep: 4
+currentPhysicalState: Normal
+interestInParticipation: 5
+walkingAid: false
+walkingAidName: 

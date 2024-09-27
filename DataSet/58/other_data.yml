@@ -1,0 +1,21 @@
+gender: Female
+age: 74
+weight: 90
+height: 150
+physicalExercise: Rarely
+amountOfTime: "30 minutes or less"
+exerciseType: Walk
+diet: false
+dietType: 
+portionsOfFruitsOrVegetables: "1 or 2"
+amountOfWaterPerDay: Até 0.33L
+healthPathology: true
+pathologyType:
+  - Neurologic
+  - Metabolic
+smoker: false
+hoursOfSleep: 8
+currentPhysicalState: "With energy"
+interestInParticipation: 4
+walkingAid: true
+walkingAidName: "Walking stick"

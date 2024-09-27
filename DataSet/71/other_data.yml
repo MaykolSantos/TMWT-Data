@@ -1,0 +1,19 @@
+gender: Male
+age: 81
+weight: 64
+height: 163
+physicalExercise: "2 or 3 times per week"
+amountOfTime: "Between 1 and 2 hours"
+exerciseType: "Individual Sports"
+diet: false
+dietType: 
+portionsOfFruitsOrVegetables: "1 or 2"
+amountOfWaterPerDay: 0.5 a 1L
+healthPathology: false
+pathologyType:
+smoker: false
+hoursOfSleep: 5
+currentPhysicalState: "With energy"
+interestInParticipation: 5
+walkingAid: false
+walkingAidName:

@@ -1,0 +1,20 @@
+gender: Female
+age: 88
+weight: 70
+height: 155
+physicalExercise: "Every day"
+amountOfTime: "Between 1 and 2 hours"
+exerciseType: Walk
+diet: false
+dietType: 
+portionsOfFruitsOrVegetables: "Between 3 and 5"
+amountOfWaterPerDay: Between 1L and 2L"
+healthPathology: true
+pathologyType:
+  - Vestibular
+smoker: false
+hoursOfSleep: 9
+currentPhysicalState: "With a lot of energy"
+interestInParticipation: 4
+walkingAid: false
+walkingAidName: 

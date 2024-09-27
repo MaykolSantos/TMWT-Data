@@ -1,0 +1,19 @@
+gender: Female
+age: 80
+weight: 70
+height: 165
+physicalExercise: "2 or 3 times per week"
+amountOfTime: "Between 1 and 2 hours"
+exerciseType: "Individual Sports"
+diet: false
+dietType: 
+portionsOfFruitsOrVegetables: "Between 3 and 5"
+amountOfWaterPerDay: 0.5 a 1L
+healthPathology: false
+pathologyType:
+smoker: false
+hoursOfSleep: 9
+currentPhysicalState: "With a lot of energy"
+interestInParticipation: 5
+walkingAid: false
+walkingAidName:

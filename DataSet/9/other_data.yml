@@ -1,0 +1,19 @@
+gender: Female
+age: 86
+weight: 72
+height: 163
+physicalExercise: "Every day"
+amountOfTime: "Between 1 and 2 hours"
+exerciseType: Walk
+diet: false
+dietType: 
+portionsOfFruitsOrVegetables: "1 or 2"
+amountOfWaterPerDay: Between 1L and 2L"
+healthPathology: false
+pathologyType:
+smoker: false
+hoursOfSleep: 8
+currentPhysicalState: Normal
+interestInParticipation: 4
+walkingAid: true
+walkingAidName: Walker
