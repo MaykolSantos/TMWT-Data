@@ -46,7 +46,7 @@ source bin/activate
 
 Let's install pip inside this new enviroment:
 ```bash
-python -m ensurepip --upgrade
+python3 -m ensurepip --upgrade
 ```
 
 And right after that, we need to install all the requirements, using pip:
